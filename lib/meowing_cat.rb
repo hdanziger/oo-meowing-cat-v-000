@@ -12,4 +12,3 @@ def meow (meow)
   puts "meow!"
 end
 
-puts maru.meow
