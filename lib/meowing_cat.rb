@@ -10,5 +10,6 @@ puts maru.name
 
 def meow
   puts "meow!"
-  maru.meow
+end
+maru.meow
 end
