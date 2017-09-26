@@ -8,8 +8,8 @@ maru.name = "Maru"
 
 puts maru.name
 
-def meow
-  puts "meow"
+def meow (meow)
+  puts "meow!"
 end
 
 puts maru.meow
