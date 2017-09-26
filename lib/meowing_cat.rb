@@ -8,5 +8,3 @@ maru.name = "Maru"
 
 
 puts maru.name
-
-
